@@ -1,0 +1,8 @@
+E:\BaiTapLon\src\ChienLuoc_ChiaDeTri\BinarySearch\bin\Debug\BinarySearch.exe.config
+E:\BaiTapLon\src\ChienLuoc_ChiaDeTri\BinarySearch\bin\Debug\BinarySearch.exe
+E:\BaiTapLon\src\ChienLuoc_ChiaDeTri\BinarySearch\bin\Debug\BinarySearch.pdb
+E:\BaiTapLon\src\ChienLuoc_ChiaDeTri\BinarySearch\obj\Debug\BinarySearch.csproj.AssemblyReference.cache
+E:\BaiTapLon\src\ChienLuoc_ChiaDeTri\BinarySearch\obj\Debug\BinarySearch.csproj.SuggestedBindingRedirects.cache
+E:\BaiTapLon\src\ChienLuoc_ChiaDeTri\BinarySearch\obj\Debug\BinarySearch.csproj.CoreCompileInputs.cache
+E:\BaiTapLon\src\ChienLuoc_ChiaDeTri\BinarySearch\obj\Debug\BinarySearch.exe
+E:\BaiTapLon\src\ChienLuoc_ChiaDeTri\BinarySearch\obj\Debug\BinarySearch.pdb

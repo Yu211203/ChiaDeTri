@@ -4,15 +4,14 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6030D4A3-1FA9-419A-AE16-E4DEC0D3C989}</ProjectGuid>
+    <ProjectGuid>{A930D8A5-64C2-4EA5-AE39-47E957B7F61B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>MergeSort</RootNamespace>
-    <AssemblyName>MergeSort</AssemblyName>
+    <RootNamespace>BigInteger</RootNamespace>
+    <AssemblyName>BigInteger</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
-    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
