@@ -15,11 +15,13 @@ namespace MergeSort
             int n2 = r - m;
  
             int[] L = new int[n1];
+
             int[] R = new int[n2];
             int i, j;
 
             for (i = 0; i < n1; ++i)
                 L[i] = arr[l + i];
+
             for (j = 0; j < n2; ++j)
                 R[j] = arr[m + 1 + j];
 
@@ -66,6 +68,7 @@ namespace MergeSort
                 int m = l + (r - l) / 2;
 
                 mergeSort(arr, l, m);
+
                 mergeSort(arr, m + 1, r);
 
                 merge(arr, l, m, r);
