@@ -1,0 +1,7 @@
+D:\Hoc Ki He 6.5\BAI_TAP_LON\BTL_ChiaDeTri\ChiaDeTri\src\ChienLuoc_ChiaDeTri\MergeSort\bin\Debug\MergeSort.exe.config
+D:\Hoc Ki He 6.5\BAI_TAP_LON\BTL_ChiaDeTri\ChiaDeTri\src\ChienLuoc_ChiaDeTri\MergeSort\bin\Debug\MergeSort.exe
+D:\Hoc Ki He 6.5\BAI_TAP_LON\BTL_ChiaDeTri\ChiaDeTri\src\ChienLuoc_ChiaDeTri\MergeSort\bin\Debug\MergeSort.pdb
+D:\Hoc Ki He 6.5\BAI_TAP_LON\BTL_ChiaDeTri\ChiaDeTri\src\ChienLuoc_ChiaDeTri\MergeSort\obj\Debug\MergeSort.csproj.AssemblyReference.cache
+D:\Hoc Ki He 6.5\BAI_TAP_LON\BTL_ChiaDeTri\ChiaDeTri\src\ChienLuoc_ChiaDeTri\MergeSort\obj\Debug\MergeSort.csproj.CoreCompileInputs.cache
+D:\Hoc Ki He 6.5\BAI_TAP_LON\BTL_ChiaDeTri\ChiaDeTri\src\ChienLuoc_ChiaDeTri\MergeSort\obj\Debug\MergeSort.exe
+D:\Hoc Ki He 6.5\BAI_TAP_LON\BTL_ChiaDeTri\ChiaDeTri\src\ChienLuoc_ChiaDeTri\MergeSort\obj\Debug\MergeSort.pdb
