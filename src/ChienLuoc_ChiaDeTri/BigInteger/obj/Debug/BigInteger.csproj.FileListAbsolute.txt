@@ -1,0 +1,8 @@
+E:\BaiTapLon\src\ChienLuoc_ChiaDeTri\BigInteger\bin\Debug\BigInteger.exe.config
+E:\BaiTapLon\src\ChienLuoc_ChiaDeTri\BigInteger\bin\Debug\BigInteger.exe
+E:\BaiTapLon\src\ChienLuoc_ChiaDeTri\BigInteger\bin\Debug\BigInteger.pdb
+E:\BaiTapLon\src\ChienLuoc_ChiaDeTri\BigInteger\obj\Debug\BigInteger.csproj.AssemblyReference.cache
+E:\BaiTapLon\src\ChienLuoc_ChiaDeTri\BigInteger\obj\Debug\BigInteger.csproj.SuggestedBindingRedirects.cache
+E:\BaiTapLon\src\ChienLuoc_ChiaDeTri\BigInteger\obj\Debug\BigInteger.csproj.CoreCompileInputs.cache
+E:\BaiTapLon\src\ChienLuoc_ChiaDeTri\BigInteger\obj\Debug\BigInteger.exe
+E:\BaiTapLon\src\ChienLuoc_ChiaDeTri\BigInteger\obj\Debug\BigInteger.pdb
